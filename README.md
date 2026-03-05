@@ -1,7 +1,7 @@
 # TelecomX_LATAM
 Challenge de Alura sobre ETL
 
-
+https://github.com/yansiercaro/TelecomX_LATAM/issues/1#issue-4031071300
 
 # 📊 Análisis de Evasión de Clientes (Churn) - Telecom X
 
